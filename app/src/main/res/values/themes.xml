@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProfileApp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!--Primary brand color. -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryDark">@color/background</item>
+        <item name="colorAccent">@color/TEXT</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ProfileApp" parent="Base.Theme.ProfileApp" />
+</resources>

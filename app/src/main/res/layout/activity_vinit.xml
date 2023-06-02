@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/background"
-    tools:context=".MainActivity">
+    tools:context=".Vinit">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/profilePic"
@@ -20,8 +20,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/profile_pik"
-            />
+            android:src="@drawable/vinit" />
     </androidx.cardview.widget.CardView>
 
     <TextView
@@ -32,7 +31,7 @@
         android:layout_marginTop="12dp"
         android:layout_marginEnd="16dp"
         android:fontFamily="@font/roboto_bold"
-        android:text="Praveen Pattar"
+        android:text="VINIT MACCHA"
         android:textAlignment="center"
         android:textColor="@color/titlecolor"
         android:textSize="22sp"
@@ -47,7 +46,7 @@
         android:layout_marginStart="56dp"
         android:layout_marginEnd="56dp"
         android:fontFamily="@font/roboto_medium"
-        android:text="ANDROID DEVELOPER | ACCOUNTANT | CFO"
+        android:text="ANDROID DEVELOPER | WEB DEVELOPER | BUSINESS CONSULTANT"
         android:textAlignment="center"
         android:textColor="@color/biocolor"
         android:textSize="16sp"
@@ -317,7 +316,6 @@
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_marginStart="24dp"
-        android:layout_marginTop="0dp"
         android:layout_marginEnd="24dp"
         android:background="@drawable/button"
         android:fontFamily="@font/roboto_bold"
